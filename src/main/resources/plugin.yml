@@ -1,0 +1,4 @@
+name: LifeBan
+version: '${project.version}'
+main: com.lampalon.lifeban.LifeBan
+load: STARTUP
